@@ -1,1 +1,38 @@
-h1 { color : red; }
+/* Global styles
+------------------------*/
+body {
+ color: #343434;
+}
+img { width: 300; }
+
+/* profile
+------------------------*/
+header {
+ background: #2F3061;
+ color: #F7FFF7;
+}
+
+/* projects
+------------------------*/
+.projects {
+ background: #F7FFF7;
+}
+
+
+/* WORK EXPERIENCE	
+------------------------*/
+.work-experience {
+background: #A1C6D7
+}
+
+
+/* Education
+------------------------*/
+
+/* Contact info 
+------------------------*/
+footer {
+background: #343434;
+color: #F7FFF7;
+
+}
